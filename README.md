@@ -1,7 +1,8 @@
 laravel-symbol-route
-_____________________________________________________________________
-Laravel Project, Routes, controllers, extends, section, yeld, include
 ---------------------------------------------------------------------
+Laravel Project, Routes, controllers, extends, section, yeld, include
+_____________________________________________________________________
+
 ROUTES to VIEW RESULTS:
 
 /cube/letter
