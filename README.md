@@ -11,3 +11,6 @@ ROUTES to VIEW RESULTS:
 FOLDER PROJECT:
 
 public/
+
+
+DB:
